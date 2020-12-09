@@ -20,8 +20,8 @@ public:
     }
 };
 
-int main() {
-    Solution solution = Solution();
-    int result = solution.reverse(123);
-    cout << result << endl;
-}
+//int main() {
+//    Solution solution = Solution();
+//    int result = solution.reverse(123);
+//    cout << result << endl;
+//}
